@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **ReactJS and Next.js**
 
-- 👨‍💻 All of my projects are available at [naineel-portfolio-23.netlify.app/](naineel-portfolio-23.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](naineel-portfolio-23.netlify.app/)
 
-- 💬 Ask me about **nodejs, mongo, react**
+- 💬 Ask me about **nodejs, mongo, react, html, css3, sass**
 
 - 📫 How to reach me **naineelsoyantar@gmail**
 
-- 📄 Know about my experiences [https://naineel-portfolio-23.netlify.app/Naineel_Soyantar_Resume.pdf](https://naineel-portfolio-23.netlify.app/Naineel_Soyantar_Resume.pdf)
+- 📄 Know about my experiences [MY RESUME](https://naineel-portfolio-23.netlify.app/Naineel_Soyantar_Resume.pdf)
 
 - ⚡ Fun fact **I love watching, discussing and analyzing movies. My most favourite directors are David Fincher and David Lynch.**
 
