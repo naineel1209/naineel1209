@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **nodejs, mongo, react, html, css3, sass**
 
-- 📫 How to reach me **naineelsoyantar@gmail**
+- 📫 How to reach me **naineelsoyantar@gmail.com**
 
 - 📄 Know about my experiences [MY RESUME](https://naineel-portfolio-23.netlify.app/Naineel_Soyantar_Resume.pdf)
 
