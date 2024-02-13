@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS and Next.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](naineel-portfolio-23.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://naineel-portfolio-23.netlify.app/)
 
 - 💬 Ask me about **nodejs, mongo, react, html, css3, sass**
 
@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naineel-soyantar-3b1b371b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naineel-soyantar-3b1b371b7/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naineel-soyantar-3b1b371b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naineel-soyantar-3b1b371b7/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/naineel-soyantar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="naineel-soyantar" height="30" width="40" /></a>
 <a href="https://instagram.com/_naineel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_naineel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/naineel12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/naineel12/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/naineelsoyantar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/naineelsoyantar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/naineel12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/naineel12/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/naineelsoyantar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/naineelsoyantar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
