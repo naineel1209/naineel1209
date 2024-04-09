@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naineel Soyantar</h1>
-<h3 align="center">Exuberant developer and movie enthusiast from Ahmedabad, India, infusing boundless energy into tech projects and celebrating the magic of cinema. 🎬💻🌟</h3>
+<h3 align="center">Exuberant developer and movie enthusiast from Ahmedabad, India, infusing boundless energy into tech and learning something new everyday. 🎬💻🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naineel1209&label=Profile%20views&color=0e75b6&style=flat" alt="naineel1209" /> </p>
 
-- 🔭 I’m currently working on [Book Store](https://github.com/naineel1209/bookstore)
+- 🔭 I’m currently working on [Go-tcha Music Player](https://github.com/naineel1209/go-tcha-music-player)
 
-- 🌱 I’m currently learning **ReactJS and Next.js**
+- 🌱 I’m currently learning **Backend Engineering**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://naineel-portfolio-23.netlify.app/)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [MY RESUME](https://naineel-portfolio-23.netlify.app/Naineel_Soyantar_Resume.pdf)
 
-- ⚡ Fun fact **I love watching, discussing and analyzing movies. My most favourite directors are David Fincher and David Lynch.**
+- ⚡ Fun fact **I love watching, discussing and analyzing movies. My most favourite directors are David Fincher, David Lynch and Stanley Kubrick.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
