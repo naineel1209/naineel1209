@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naineel Soyantar</h1>
-<h3 align="center">Exuberant developer and movie enthusiast from Ahmedabad, India, infusing boundless energy into tech and learning something new everyday. 🎬💻🌟</h3>
+<h3 align="center">Chai. Code. Movies. In that order.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naineel1209&label=Profile%20views&color=0e75b6&style=flat" alt="naineel1209" /> </p>
 
