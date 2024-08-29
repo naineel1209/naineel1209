@@ -31,5 +31,5 @@
 
 <h3 align="left">Github Stats📊:</h3>
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naineel1209&theme=dark&show_icons=true&locale=en" alt="Naineel Soyantar" width="450" height="250" /></p>
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naineel1209&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Naineel Soyantar Stats" width="450" height="250" />
-<p align = "center">&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=naineel1209&theme=darkhub&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15" alt="Naineel Soyantar Stats" />
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naineel1209&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Naineel Soyantar Stats" width="450" height="250" /></p> <br />
+<p align = "center">&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=naineel1209&theme=darkhub&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15" alt="Naineel Soyantar Stats" /></p>
