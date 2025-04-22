@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend & Data Engineering**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://naineel-portfolio-23.netlify.app/) & [Github Repos](https://github.com/naineel1209?tab=repositories)
+- 👨‍💻 All of my projects are available at [Blog](https://naineel.tech), [Portfolio](https://portfolio.naineel.tech/) & [Github Repos](https://github.com/naineel1209?tab=repositories)
 
 - 💬 Ask me about **nodejs, expressjs, go, graphql, postgresql, mongo**
 
