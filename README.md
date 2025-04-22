@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [MY RESUME](https://naineel-portfolio-23.netlify.app/Naineel_Soyantar_Resume.pdf)
 
-- ⚡ Fun fact **i love watching movies**
+- ⚡ Fun fact **i can watch impractical jokers for 10 hours straight**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
