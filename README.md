@@ -11,4 +11,4 @@
 
 - Fun fact about me **i can watch impractical jokers for 10 hours straight**
 
-- Hit me up if you have any ideas for projects or just want to do some chit-chat @ **naineelsoyantar@gmail.com**
+- Hit me up if you have any ideas for projects @ **naineelsoyantar@gmail.com**
